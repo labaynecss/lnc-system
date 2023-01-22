@@ -1,0 +1,32 @@
+.register-container {
+  background-image: url("lnc-register.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.9;
+}
+.login-container {
+  background-image: url("lnc-login.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.9;
+}
+.home-page {
+  height: 100vh;
+}
+.banner-image {
+  background-image: url("banner.jpg");
+  background-size: 100% 75%;
+  background-repeat: no-repeat;
+  background-position: 25%;
+  opacity: 0.9;
+  height: 60%;
+}
+.jumbotron {
+  background-image: url("shop.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.9;
+}
